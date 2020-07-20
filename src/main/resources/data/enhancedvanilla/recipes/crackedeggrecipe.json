@@ -1,0 +1,16 @@
+{
+  "group": "enhancedvanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "enhancedvanilla:crackedeggitem",
+    "count": 1
+  }
+}

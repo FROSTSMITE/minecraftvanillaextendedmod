@@ -1,0 +1,29 @@
+{
+  "penguinidle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "enhancedvanilla:penguin_idle",
+        "stream": false
+      }
+    ]
+  },
+  "penguinhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "enhancedvanilla:penguin_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "penguindeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "enhancedvanilla:penguin_death",
+        "stream": false
+      }
+    ]
+  }
+}

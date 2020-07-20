@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 2.0,
+    "cookingTime": 155,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:Crackedeggitem"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:Friedeggitem"
+    },
+    "name": "friedeggsmokerecipe",
+    "namespace": "mod"
+  }
+}

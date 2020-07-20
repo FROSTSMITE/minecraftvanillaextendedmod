@@ -1,0 +1,27 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "crackedegg",
+    "customModelName": "Normal",
+    "name": "Raw egg",
+    "specialInfo": [
+      "an egg fresher than the chicken it came from."
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 0.1,
+    "eatingSpeed": 45,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "CrackedeggitemFoodEaten"
+    }
+  }
+}

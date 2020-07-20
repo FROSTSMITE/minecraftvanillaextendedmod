@@ -1,0 +1,12 @@
+{
+  "group": "enhancedvanilla",
+  "type": "minecraft:smoking",
+  "experience": 2,
+  "cookingtime": 155,
+  "ingredient": {
+    "item": "enhancedvanilla:crackedeggitem"
+  },
+  "result": {
+    "item": "enhancedvanilla:friedeggitem"
+  }
+}

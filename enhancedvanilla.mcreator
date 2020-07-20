@@ -1,0 +1,147 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CrackedeggitemFoodEaten",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackedeggitem_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crackedeggitem",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackedeggitem"
+    },
+    {
+      "name": "Friedeggitem",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "friedeggitem"
+    },
+    {
+      "name": "Crackedeggrecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackedeggrecipe"
+    },
+    {
+      "name": "Friedeggrecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "friedeggrecipe"
+    },
+    {
+      "name": "Friedeggsmokerecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "friedeggsmokerecipe"
+    },
+    {
+      "name": "Boiledegg",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiledegg"
+    },
+    {
+      "name": "Boiledeggrecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiledeggrecipe"
+    },
+    {
+      "name": "Penguinentity",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "penguinentity"
+    },
+    {
+      "name": "Boiledeggsmokerrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiledeggsmokerrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "penguinidle",
+      "file": "penguin_idle",
+      "category": "neutral"
+    },
+    {
+      "name": "penguinhurt",
+      "file": "penguin_hurt",
+      "category": "neutral"
+    },
+    {
+      "name": "penguindeath",
+      "file": "penguin_death",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.enhancedvanilla.crackedeggitem": "Raw egg",
+      "entity.enhancedvanilla.penguinentity": "Penguin",
+      "item.enhancedvanilla.friedeggitem": "Fried egg",
+      "item.enhancedvanilla.boiledegg": "Boiled egg",
+      "item.enhancedvanilla.penguinentity": "Penguin Spawn Egg"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "enhancedvanilla",
+    "modName": "Enhancedvanilla",
+    "version": "1.0.0",
+    "author": "joshu, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.enhancedvanilla",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
